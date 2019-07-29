@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Road to the dream 71</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="challenge_title">#roadtothedream71</string>
+    <string name="attempt_text">Attempt II</string>
+</resources>
