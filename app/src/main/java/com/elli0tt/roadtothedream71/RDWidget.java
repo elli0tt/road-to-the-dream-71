@@ -12,13 +12,12 @@ import android.widget.RemoteViews;
 import com.elli0tt.roadtothedream71.data.Actions;
 import com.elli0tt.roadtothedream71.data.Keys;
 
-import java.util.Objects;
-
 
 public class RDWidget extends AppWidgetProvider {
 
     public static final String SHARED_PREFERENCES = "rd_widget_shared_preferences";
-    public static final int DEFAULT_BUTTON_IMAGE_RESOURCE = R.drawable.ic_check_box_outline_blank_black_24dp;
+    //public static final int DEFAULT_BUTTON_IMAGE_RESOURCE = R.drawable.ic_check_box_outline_blank_black_24dp;
+    public static final int DEFAULT_BUTTON_IMAGE_RESOURCE = R.drawable.checkbox_unchecked_background;
 
     static void updateAppWidget(Context context, AppWidgetManager appWidgetManager,
                                 int appWidgetId) {
@@ -299,11 +298,19 @@ public class RDWidget extends AppWidgetProvider {
     }
 
 
+//    private static int getCheckBoxNextResource(int previous_resource) {
+//        if (previous_resource == R.drawable.ic_check_box_black_24dp) {
+//            return R.drawable.ic_check_box_outline_blank_black_24dp;
+//        } else {
+//            return R.drawable.ic_check_box_black_24dp;
+//        }
+//    }
+
     private static int getCheckBoxNextResource(int previous_resource) {
-        if (previous_resource == R.drawable.ic_check_box_black_24dp) {
-            return R.drawable.ic_check_box_outline_blank_black_24dp;
+        if (previous_resource == R.drawable.checkbox_checked_background) {
+            return R.drawable.checkbox_unchecked_background;
         } else {
-            return R.drawable.ic_check_box_black_24dp;
+            return R.drawable.checkbox_checked_background;
         }
     }
 

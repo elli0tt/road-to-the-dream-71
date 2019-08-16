@@ -26,67 +26,77 @@
 
             <ImageButton
                 android:id="@+id/button_1"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="OnCheckButtonClick"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_8"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_15"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_22"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_29"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_36"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_43"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_50"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_57"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_64"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_71"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
@@ -100,60 +110,70 @@
 
             <ImageButton
                 android:id="@+id/button_2"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_9"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_16"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_23"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_30"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_37"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_44"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_51"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_58"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_65"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
@@ -167,60 +187,70 @@
 
             <ImageButton
                 android:id="@+id/button_3"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_10"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_17"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_24"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_31"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_38"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_45"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_52"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_59"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_66"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
@@ -234,60 +264,70 @@
 
             <ImageButton
                 android:id="@+id/button_4"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_11"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_18"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_25"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_32"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_39"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_46"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_53"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_60"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_67"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
@@ -301,60 +341,70 @@
 
             <ImageButton
                 android:id="@+id/button_5"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_12"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_19"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_26"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_33"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_40"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_47"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_54"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_61"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_68"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
@@ -368,60 +418,70 @@
 
             <ImageButton
                 android:id="@+id/button_6"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_13"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_20"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_27"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_34"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_41"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_48"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_55"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_62"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_69"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
@@ -435,60 +495,70 @@
 
             <ImageButton
                 android:id="@+id/button_7"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_14"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_21"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_28"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_35"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_42"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_49"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_56"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_63"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
 
             <ImageButton
                 android:id="@+id/button_70"
+                style="@style/CheckBoxImageButtonStyle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:src="@drawable/ic_check_box_outline_blank_black_24dp" />
